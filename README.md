@@ -1,5 +1,5 @@
 # Data-Security-and-Privacy-in-Amazon
- ##ABSTRACT 
+##ABSTRACT 
 
 With the rise in growth of digital commerce and cloud computing, 
 data security and privacy have become some important concerns 
