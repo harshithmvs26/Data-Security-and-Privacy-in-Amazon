@@ -1,5 +1,5 @@
 # Data-Security-and-Privacy-in-Amazon
-##ABSTRACT 
+## ABSTRACT 
 
 With the rise in growth of digital commerce and cloud computing, 
 data security and privacy have become some important concerns 
@@ -25,7 +25,7 @@ compliance frameworks, zero-trust architecture, & user-centric
 privacy controls, so that to maintain a balance between innovation, 
 security, and consumer trust. 
  
-##INTRODUCTION 
+## INTRODUCTION 
 Data privacy and security are currently of utmost concern in the 
 digitalization era, particularly for multinational technology 
 companies such as Amazon. With millions of customers across the 
@@ -92,7 +92,7 @@ research formulates suggestions for better data protection through
 enhanced encryption, real-time threat monitoring, and enhanced 
 user privacy controls. 
 
-##II.  LITERATURE STUDY 
+## II.  LITERATURE STUDY 
 Our research paper examined different studies  and papers  on data 
 privacy in electronic commerce, specifically on how businesses 
 such as Amazon use security precautions to guard user's 
@@ -132,9 +132,9 @@ enhance the accuracy of threat detection, automate risk assessment,
 and decrease the time for incident response, validating Amazon's 
 Cyber security platform. 
 
-##III. SECURITY FRAMEWORK  &   
-ARCHITECTURE 
-DATA SECURITY INFRASTRUCUTRE 
+## III. SECURITY FRAMEWORK  &   
+###  ARCHITECTURE 
+#### DATA SECURITY INFRASTRUCUTRE 
 Amazon has a multi-layered security infrastructure approach to 
 secure user information from cyber threats and unauthorized access. 
 Amazon uses advanced encryption and authentication methods to 
@@ -153,7 +153,7 @@ achieve a risk-free platform. Improving vendor security policies and
 continuously further enhancing data protection can strengthen 
 overall security. 
 Fig.2. AWS Security Threat Statistics 
-DATA PROCESSING AND PROTECTION 
+### DATA PROCESSING AND PROTECTION 
 Amazon preprocesses data before storing and processing it to 
 classify and protect information. The operations ensure data 
 security, compliance with regulations, and correct access control. 
@@ -172,8 +172,8 @@ its security posture strong, Amazon must regularly update its AI
 models, enhance anomaly detection, and enhance real-time security 
 responses. 
 
-##IV.  SECURITY   POLICIES   AND   RISK            
-MITIGATION 
+## IV.  SECURITY   POLICIES   AND   RISK            
+### MITIGATION 
 Our research is mainly focused on the laid down security polices 
 and privacy regulation to secure user data in AWS. Amazon handles 
 over 310 million of active users and millions of daily transactions , 
@@ -183,7 +183,7 @@ platforms, making security and privacy protection crucial. This
 session key tools and solution for risk management workflow 
 compliance measure implemented by amazon to secure data of 
 trusted-users. 
-SECURITY TOOLS FOR DATA PRODUCTION 
+### SECURITY TOOLS FOR DATA PRODUCTION 
 Amazon uses a number of tools to provide security in an effort to 
 protect infrastructure, deny unauthorized access, and remain 
 friendly with data privacy legislation. Amazon's security tools is 
@@ -208,7 +208,7 @@ Amazon's cyber security architecture, which will help keep customer
 data secure at every moment[1]. Frequently applying security 
 patches and improved AI-based monitoring can help us stay ahead of 
 changing cyber threats. 
-ADHERENCE TO PRIVACY LAWS & REGULATIONS 
+### ADHERENCE TO PRIVACY LAWS & REGULATIONS 
 In order to maintain trust and operate legally in various regions, 
 Amazon must comply with global privacy laws. These laws regulate 
 how customer data should be collected, stored, and processed. In a 
@@ -234,7 +234,7 @@ secure the privacy of healthcare data.Amazon follows data
 minimization, encryption policy, and transparent practices to ensure 
 obedience with the above. Stronger limitations on data tracking for 
 targeted advertising is required. 
-RISK MANAGEMENT AND PRIVACY PROTECTION 
+### RISK MANAGEMENT AND PRIVACY PROTECTION 
 encryption and access control, and AI-based threat detection to 
 secure the data of the customer . 
 Amazon is exposed to various risks, such as third-party security 
@@ -262,22 +262,22 @@ party sellers in order to minimize vulnerabilities. Below bar graph
 [Fig.4.] demonstrates the security threats regarding last year.  
 Fig.4. Common Cloud Security Threats (2024) 
 
-##V. ANALYSIS  AND  DISCUSSION 
+## V. ANALYSIS  AND  DISCUSSION 
 According to studies 43% of cyberattacks target on e-commerce 
 platforms, that highlight the need for continuous security 
 improvements. It evaluates how effective Amazon’s security 
 strategies are, the challenges it faces, and possible improvements. 
-PERFORMANCE OF AMAZON’S SECURITY SYSTEM 
+### PERFORMANCE OF AMAZON’S SECURITY SYSTEM 
 Amazon’s security system is one of the complex and most advanced 
 in the e-commerce industry. Company mainly uses the concepts of 
 Fig.5 average cost of data breaches (in USD) from 2014 to 2024. 
-Strengths of Amazon’s Security Measures: 
+### Strengths of Amazon’s Security Measures: 
 Encryption and Access Control: Amazon uses AES-256 encryption 
 and multi-factor authentication (MFA) to prevent unauthorized 
 access.As per research, AES-256 encryption is nearly impossible to 
 decrypt using brute-force attacks. 
 
-###AI-Powered Threat Detection: 
+### AI-Powered Threat Detection: 
 Certain security products such as Amazon GuardDuty, Macie, and 
 AWS Shield assist in threat detection and prevention of cyber 
 threats. Report says AI-based security systems cut cyber attack 
@@ -299,7 +299,7 @@ security[11]. This significant market share is a testament to AWS's
 critical role as a benchmark for world cloud security trends and best 
 practices..
 
-###CHALLENGES IN DATA SECURITY AND PRIVACY 
+### CHALLENGES IN DATA SECURITY AND PRIVACY 
 Despite its robust security infrastructure, Amazon is confronted by a 
 number of third-party-related challenges, data collection practices, 
 and cloud security. 
@@ -322,7 +322,7 @@ resulting from human mistakes have resulted in data leakage over
 time. It is estimated that 45% of cloud service data breaches result 
 from misconfigurations. 
 
-###AI and Surveillance Concerns:
+### AI and Surveillance Concerns:
 Alexa from Amazon, Ring 
 doorbells, and Rekognition of AWS process billions of data points 
 every day, creating issues of AI surveillance and user privacy. In 
@@ -337,7 +337,7 @@ overcome these issues, Amazon must enhance its third-party
 security, enhance data collection transparency, and implement 
 improved cloud security practices[7]. 
 
-###IMPROVEMENTS AND FUTURE ENHANCEMENTS 
+### IMPROVEMENTS AND FUTURE ENHANCEMENTS 
 Security and protection of Amazon data can be enhanced by making 
 various improvements. Improved Security for Third-Party Sellers: 
 Security audits require for all sellers and vendors. 
@@ -367,7 +367,7 @@ payment security. Studies show that blockchain reduces transaction
 fraud by 75%[5].To improve authentication in AWS cloud services 
 use blockchain-based smart contracts. 
 
-##VI.  CONCLUSION 
+## VI.  CONCLUSION 
 In this study, we investigated Amazon's security and privacy 
 policies, including data protection, AI-generated threat detection, 
 and compliance to regulations such as GDPR and CCPA. We got to 
@@ -384,7 +384,7 @@ necessary. These measures are important to uphold the  customer
 trust, comply with regulatory requirements, and remain ahead of the 
 changing cyber threats of the digital world today. 
 
-##VII. REFERENCES 
+## VII. REFERENCES 
 [1] Xiao, Z. and Xiao, Y. (2013) Security and Privacy in Cloud 
 Computing. IEEE Communications Surveys & Tutorials, 15, 843
 859. 
